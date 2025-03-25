@@ -1,7 +1,7 @@
 ###################################
-#	         Made by e303			      #
+#	         Made by e303		  #
 #  use for ethical purposes only  #
-#								                  #
+#								  #
 #you may share/redistribute this  #
 #while giving credit to the owner #
 #i am not responsible for anything#
